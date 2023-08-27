@@ -39,7 +39,7 @@ Calculator to due simple calculation like addition, subtraction, division and Mu
 #### images
 
 
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/Calculator/main/calculator.png">
+<img width="200" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/Calculator/main/calculator.png">
 
 
 #### Thank you for checking out this Repo
