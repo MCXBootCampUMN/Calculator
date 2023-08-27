@@ -8,11 +8,11 @@ Calculator to due simple calculation like addition, subtraction, division and Mu
 
 ### How to use
 
-- enter numbers
-- choose to addition, subtraction, division and Multiplication
-- use DEL to remove one digit
-- use AC to clear it all
-- equal button for total 
+- Enter numbers
+- Choose to addition, subtraction, division and Multiplication
+- Use DEL to remove one digit
+- Use AC to clear it all
+- Equal button for total 
 
 ### Site Makeup
 
