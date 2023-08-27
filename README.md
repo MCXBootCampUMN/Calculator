@@ -4,7 +4,7 @@
 
 ### Purpose
 
-Calculator to due simple calculation like addition, subtraction, division and Multiplication as well as percentage  
+Calculator to due simple calculation like addition, subtraction, division and Multiplication as well as percentage.  
 
 ### How to use
 
