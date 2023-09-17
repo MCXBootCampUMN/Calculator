@@ -24,17 +24,17 @@ Calculator to due simple calculation like addition, subtraction, division and Mu
 
 - MCX
   - HTML & CSS  Codes
-  - JS Program Function codes
+  - Inline-JS Program Function codes
 
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://mcxbootcampumn.github.io/Calculator/)
+[Github-Project](https://Maxamed-NCX.github.io/Calculator/)
 
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/MCXBootCampUMN/Calculator)
+[Github-Repo](https://github.com/Maxamed-NCXN/Calculator)
 
 #### images
 
