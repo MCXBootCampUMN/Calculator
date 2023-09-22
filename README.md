@@ -1,6 +1,6 @@
 # Calculator
-![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/Calculator)
-![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/Calculator)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/Calculator)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/Calculator)
 
 ### Purpose
 
