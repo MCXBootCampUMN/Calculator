@@ -29,12 +29,12 @@ Calculator to due simple calculation like addition, subtraction, division and Mu
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://Maxamed-NCX.github.io/Calculator/)
+[GitHub-Project](https://Maxamed-NCX.github.io/Calculator/)
 
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/Maxamed-NCX/Calculator)
+[GitHub-Repo](https://github.com/Maxamed-NCX/Calculator)
 
 #### images
 
