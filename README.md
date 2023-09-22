@@ -2,6 +2,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/Calculator)
 ![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/Calculator)
 
+## Portfolio 1 Project
+
 ### Purpose
 
 Calculator to due simple calculation like addition, subtraction, division and Multiplication as well as percentage.  
