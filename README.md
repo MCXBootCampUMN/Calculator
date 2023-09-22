@@ -34,7 +34,7 @@ Calculator to due simple calculation like addition, subtraction, division and Mu
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/Maxamed-NCXN/Calculator)
+[Github-Repo](https://github.com/Maxamed-NCX/Calculator)
 
 #### images
 
